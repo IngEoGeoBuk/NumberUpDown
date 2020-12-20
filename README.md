@@ -1,6 +1,6 @@
 https://www.youtube.com/watch?v=qSRrxpdMpVc&ab_channel=Academind
 
-Use React-Native,
+It was made by Using React-Native.
 Let's Play the 'UpDown Game!'
 
 If you put the number between 1-99,
